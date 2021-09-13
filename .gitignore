@@ -1,3 +1,5 @@
 
 .env
 private.py
+prefixes.json
+__pycache__/private.cpython-39.pyc
